@@ -2,6 +2,7 @@
 
 .card {
     border: none;
+    margin-top: 50px;
 }
 
 .card-body, .p-2, .color-varint{
