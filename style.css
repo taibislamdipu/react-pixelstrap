@@ -1,0 +1,80 @@
+
+
+.card {
+    border: none;
+}
+
+.card-body, .p-2, .color-varint{
+    padding: 0;
+    margin-top: 10px;
+}
+
+del{
+    display: inline;
+}
+
+.product-price{
+    display: flex;
+}
+
+.new-arrival{
+    position: absolute;
+    background-color: tomato;
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.new-arrival p{
+    display: block;
+    color: white;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.container-fluid{
+    width: 80%;
+}
+
+.on-sale{
+    position: absolute;
+    text-align: right;
+    width: 100%;
+    font-weight: 500;
+}
+
+ul, li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.product-title{
+    font-weight: 600;
+}
+
+
+/* colors */
+
+.green{
+   
+    background-color: yellowgreen;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+.hotpink{
+    
+    background-color: hotpink;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+.chocolate{
+    
+    background-color: chocolate;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
